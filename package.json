@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "miyagi": "miyagi"
+  },
+  "devDependencies": {
+    "@miyagi/core": "^2.6.1",
+    "twig": "^1.15.4"
+  }
+}
