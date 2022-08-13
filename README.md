@@ -6,28 +6,16 @@
 
 ## Installation
 
-With npm:
-
 ```sh
 npm install
 ```
 
-With Yarn:
-
-```sh
-yarn install
-```
-
 ## Usage
 
-With npm:
-
 ```sh
-npm run miyagi -- start
-```
+# Start dev server
+npm run start
 
-With Yarn:
-
-```sh
-yarn run miyagi start
+# Create static build
+npm run build
 ```

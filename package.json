@@ -1,9 +1,10 @@
 {
   "scripts": {
-    "miyagi": "miyagi"
+    "start": "miyagi start",
+    "build": "miyagi build"
   },
   "devDependencies": {
-    "@miyagi/core": "^2.6.1",
+    "@miyagi/core": "^3.3.2",
     "twig": "^1.15.4"
   }
 }
