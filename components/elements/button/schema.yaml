@@ -6,3 +6,15 @@ required:
 properties:
   label:
     type: string
+  icon:
+    type: object
+    description: Adds an icon to the button.
+    properties:
+      name:
+        type: string
+      position:
+        type: string
+        description: Positions the icon either in front of or after the text.
+        enum:
+          - start
+          - end

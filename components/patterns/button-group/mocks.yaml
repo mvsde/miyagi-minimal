@@ -1,3 +1,7 @@
 buttons:
   - label: Hello World
   - label: Foo bar
+bla:
+  $tpl: /elements/button
+foo:
+  $ref: /elements/button

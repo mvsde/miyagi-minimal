@@ -4,7 +4,7 @@
     "build": "miyagi build"
   },
   "devDependencies": {
-    "@miyagi/core": "^3.3.2",
+    "@miyagi/core": "^3.3.6",
     "twig": "^1.15.4"
   }
 }
